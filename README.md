@@ -14,4 +14,4 @@ npm install
 npm run dev
 ```
 
-...
+You want to contribute? Please don't, I didn't make this, and I for sure won't make add something to it. Maybe in the future, if I get bored
